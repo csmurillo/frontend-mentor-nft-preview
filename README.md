@@ -10,7 +10,6 @@
 - [Author](#author)
 
 ## Overview
-
 ### Screenshot
 
 ![](./screenshot.jpg)
